@@ -1,0 +1,34 @@
+name: projekakhir
+description: "A new Flutter project."
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.0.15 # Penambahan dependensi shared_preferences
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  assets:
+    - image/tent_icon.png
+    - image/tent_background.jpg
+    - image/exit.png
+    - image/sb.png
+    - image/kursi_lipat.png
+    - image/tenda.png
+    - image/tas.png
+    - image/sepatu.png
+    - image/lampu.png
+    - image/matras.jpg
+    - image/lup.png
+    - image/keranjang.png
